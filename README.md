@@ -1,5 +1,5 @@
 # Jason Guan | Data Analyst Portfolio
-📧 jasonguan067@gmail.com | 🔗 linkedin.com/jasonguan067 | 🐙 [GitHub](https://github.com/jasonguan067)
+📧 jasonguan067@gmail.com | 🔗 [LinkedIn](linkedin.com/jasonguan067) | 🐙 [GitHub](https://github.com/jasonguan067)
 
 ---
 

@@ -57,8 +57,23 @@
 
 ---
 
+  ### Sports Betting Dashboard | Excel · Power BI  
+[View Project](https://github.com/jasonguan067/Sportsbetting-Analysis)
+- Analyzed personal betting data to track performance and uncover insights  
+- Cleaned and prepped 300+ rows of transactional data in Excel using:  
+  `COUNTIFS`, `IF`, `VLOOKUP`, `TEXT`, and date/time functions  
+- Built interactive Power BI visuals showing:  
+  - Win rate by sport  
+  - Hourly average profit trends  
+  - ROI across bet types  
+- Applied DAX to calculate key performance metrics like:  
+  - Win %, ROI, and bet distribution  
+- Included slicers for sport, bet result, and time filtering to enhance interactivity
+- This project shows how I apply data skills to real-life interests, combining technical ability with curiosity and critical thinking.
+
+
 ## Technical Skills
-**Data Analysis:** SQL, Python (Pandas), R  
+**Data Analysis:** SQL, Python (Pandas), R, Excel, DAX
 **Visualization:** Tableau, Power BI, Matplotlib  
 **Data Engineering:** ETL Pipelines, Data Warehousing  
 **Databases:** SQL Server, PostgreSQL  
